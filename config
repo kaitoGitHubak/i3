@@ -161,7 +161,7 @@ bar {
 
 
 #’Ç‹L
-exec --no-startup-id "feh --bg-scale $HOME/picture/hatune3.jpg"
+exec --no-startup-id "feh --bg-scale $HOME/picture/yuni2.jpg"
 
 # Left Alt
 set $altl Mod1
